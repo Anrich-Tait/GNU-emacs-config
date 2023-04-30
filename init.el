@@ -1,6 +1,6 @@
 (setq inhibit-startup-message t)
 
-(load-theme 'doom-dracula t)
+;;(load-theme 'doom-dracula t)
 
 (scroll-bar-mode -1)        ; Disable visible scrollbar
 (tool-bar-mode -1)          ; Disable the toolbar
