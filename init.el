@@ -776,6 +776,5 @@
 (indent-guide-global-mode)
 
 ;; LATEX STUFF-------------------------------------------------------
-(use-package tex
-  :ensure auctex)
+(use-package tex)
 
