@@ -16,7 +16,7 @@
 ;; Set up the visible bell (flash when you reach the end of a buffer)
 (setq visible-bell t)
 
-(set-face-attribute 'default nil :font "SFMono" :height 120) ;;set fonts
+;;(set-face-attribute 'default nil :font "SFMono" :height 120) ;;set fonts
 
 
 ;; Make ESC quit prompts (so if you enter a command wrong just spam 'esc'
